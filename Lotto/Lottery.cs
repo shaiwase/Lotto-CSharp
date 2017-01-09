@@ -4,7 +4,7 @@
 
 //********************************************************************************************************************************************//
 // Author : Karine Or  ///GOOD save
-// TZ : 310261243
+// TZ : 
 // Project 1 
 // Basic C#
 // Subject : Lottery program. User will recive a menu with options : Manual or automatic Lottery. User will be able to fill between 1 to 10 
