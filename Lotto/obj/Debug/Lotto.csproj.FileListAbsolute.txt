@@ -1,0 +1,6 @@
+D:\Pers\Studies\ComputerSciences\JohnBriceDotNetCourse\ClassStudy\Project\1\Lotto\Lotto\bin\Debug\Lotto.exe.config
+D:\Pers\Studies\ComputerSciences\JohnBriceDotNetCourse\ClassStudy\Project\1\Lotto\Lotto\bin\Debug\Lotto.exe
+D:\Pers\Studies\ComputerSciences\JohnBriceDotNetCourse\ClassStudy\Project\1\Lotto\Lotto\bin\Debug\Lotto.pdb
+D:\Pers\Studies\ComputerSciences\JohnBriceDotNetCourse\ClassStudy\Project\1\Lotto\Lotto\obj\Debug\Lotto.exe
+D:\Pers\Studies\ComputerSciences\JohnBriceDotNetCourse\ClassStudy\Project\1\Lotto\Lotto\obj\Debug\Lotto.pdb
+D:\Pers\Studies\ComputerSciences\JohnBriceDotNetCourse\ClassStudy\Project\1\Lotto\Lotto\obj\Debug\Lotto.csprojResolveAssemblyReference.cache
